@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Satyam <br><br>- 🔭 I work as a software engineer<br>- 📚 Currently learning about trending technologies<br>- ⚡ I enjoy creating content for (www.addastudents.com) in my spare time</p>
 
 ###
 
